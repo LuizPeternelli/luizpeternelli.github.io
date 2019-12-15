@@ -1,5 +1,5 @@
 ---
-title: "Estatistics I (Modelos Lineares I - EST 640)"
+title: "Statistics I (Estatistica I - EST 106)"
 collection: teaching
 type: "Classes"
 permalink: /teaching/2015-spring-teaching-1
@@ -10,11 +10,11 @@ location: "Vicosa, MG, Brazil"
 
 This is a description of a teaching . You can use markdown like any other post.
 
-Introduction
+# Introduction
 ======
 
-Cap. 1
+# Cap. 1
 ======
 
-Cap. 2
+## Cap. 2
 ======
