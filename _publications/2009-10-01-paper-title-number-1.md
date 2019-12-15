@@ -8,9 +8,7 @@ venue: '?'
 paperurl: 'http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2'
 citation: '??'
 ---
-paper 1 title
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+paper 1 title - [here](http://academicpages.github.io/files/paper1.pdf)
 
-paper 2 title
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+paper 2 title [here](http://academicpages.github.io/files/paper1.pdf)
 
