@@ -8,8 +8,6 @@ date: 01-02-2020
 location: "Vicosa, MG, Brazil"
 ---
 
-This is a description of a teaching . You can use markdown like any other post.
-
 Introduction
 ======
 
