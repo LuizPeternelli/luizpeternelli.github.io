@@ -24,9 +24,9 @@ I have experience in Applied Probability and Statistics, with emphasis in Statis
 * Statistical Learning.
 
 ## Professional Address:
-Prof. Luiz A. Peternelli
-Department of Statistics, room 311-B
-Centro de Ciencias Exatas, 
-Campus da Universidade Federal de Vicosa
-36570-900 - Vicosa, MG - Brasil
+Prof. Luiz A. Peternelli;
+Department of Statistics, room 311-B;
+Centro de Ciencias Exatas;
+Campus da Universidade Federal de Vicosa;
+36570-900 - Vicosa, MG - Brasil;
 Phone: +55 31 3612-6161 
