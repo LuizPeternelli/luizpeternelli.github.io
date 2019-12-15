@@ -7,7 +7,7 @@ venue: "Universidade Federal de Vicosa, Department of Statistics"
 date: 01-02-2020
 location: "Vicosa, MG, Brazil"
 ---
-
+2020
 
 
 # Cap. 1
