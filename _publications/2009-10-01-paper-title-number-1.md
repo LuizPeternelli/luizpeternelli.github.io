@@ -1,12 +1,12 @@
 ---
-title: "Full list of papers - Please see Lattes CV"
+title: "Scientific Papers"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 #paperurl: 'http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2'
-date: 2019-12-14
+date: 2019-14-12
 ---
 
-Full list - [Lattes CV](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2)
+#Full list - [Lattes CV](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2)
 
 * Decision Trees as a Tool to Select Sugarcane Families - [here](https://m.scirp.org/papers/81989)
 
