@@ -3,7 +3,7 @@ title: "Scientific Papers"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 #paperurl: 'http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2'
-date: 2019-14-12
+date: 14-12-2019
 ---
 
 #Full list - [Lattes CV](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2)
