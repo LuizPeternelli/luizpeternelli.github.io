@@ -14,3 +14,4 @@ date: 14-12-2019
 
 * Phenotypic classification of sugarcane from near infrared spectra obtained directly from stalk using ordered predictors selection and partial least squares-discriminant analysis - [here](https://www.impopen.com/nir-abstract/R17_0157)
 
+* 
