@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Agronomy, Federal University of Vicosa, Brazil, 1988
+* M.S. in Genetics and Plant Breeding, Federal University of Vicosa, Brazil, 1992
+* Ph.D in Statistics and Plant Breeding, Iowa State University, USA, 1999
 
 Work experience
 ======
