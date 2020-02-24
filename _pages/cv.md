@@ -17,24 +17,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Professor
+  * Federal University of Vicosa, Brazil
+  * Duties included: teaching undergrad and grad courses, and graduate students advising
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistial Methods
+* Plant Breeding
+  * Sugarcane breeding
+  * Prediction Models
+  * Image data analysis applied to field trials
+* Consulting
 
 Publications
 ======
@@ -56,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* LAPEA
