@@ -85,7 +85,7 @@ author:
   bio              : "Full Professor (Department of Statistics) and researcher of the Sugarcane Breeding Program at UFV."
   location         : "Vicosa, MG/Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=d4OluOYAAAAJ&hl=en"
   email            : peternelli@ufv.br
   researchgate     : "https://www.researchgate.net/profile/Luiz_Peternelli"
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
- # portfolio:
- #   output: false
- #   permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+##  - scope:
+##      path: ""
+##      type: portfolio
+##    values:
+##      layout: single
+##      author_profile: true
+##      share: true
+##      comment: true
   # _talks
   - scope:
       path: ""
