@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=d4OluOYAAAAJ&hl=en"
   email            : peternelli@ufv.br
-  researchgate     :  # example: "https://www.researchgate.net/profile/Luiz_Peternelli"
+  researchgate     : "https://www.researchgate.net/profile/Luiz_Peternelli"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+ # portfolio:
+ #   output: false
+ #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bahia # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
