@@ -51,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-*  LAPEA <ul>http://lapea.ufv.br</ul>
+*  LAPEA <ul>{http://lapea.ufv.br}</ul>
