@@ -1,5 +1,5 @@
 ---
-title: "Scientific Papers"
+title: "Most Recent Scientific Papers"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 #paperurl: 'http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723301Z7&idiomaExibicao=2'
